@@ -4,7 +4,7 @@ List the employees who are interested in dining in today:
 Read employees' data from employees.csv or employees.json based on config.cfg
 Read lunch menu from menu.csv or menu.json based on config.cfg
 The output file's name will have today's date and then the suffix from config.cfg file.
-Output should look like the provided output.csv.........
+Output should look like the provided output.csv........
 
 
 
