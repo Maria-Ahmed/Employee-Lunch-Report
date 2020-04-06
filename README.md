@@ -12,7 +12,7 @@ Read data from the CSV /JSON file and Write data into the file base on provided 
 
 
 
-If your program encounters any exceptional condition, it should be logged in error_log.log file
+If your program encounters any exceptional condition, it should be logged in error_log.log file....
 
 
 Create separate modules for CSV, JSON, ErrorLogs and Classes
